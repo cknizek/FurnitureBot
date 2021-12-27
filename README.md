@@ -1,4 +1,6 @@
-# FurnitureBot Build Docs
+<p align="center"><img src="https://imgur.com/CQQEUNZ.png" alt="MarkText" width="100" height="100"></p>
+
+<h1 align="center">FurnitureBot</h1>
 
 ## Motion Demos
 ### CNC Motion Demo: Corner View [video]
