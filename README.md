@@ -2,21 +2,6 @@
 
 <h1 align="center">FurnitureBot</h1>
 
-## Motion Demos
-### CNC Motion Demo: Corner View [video]
-[CNC Motion Demo: Corner View](https://youtu.be/T_k4fVqZpzs)
-
-- If you speed up the video to 2X speed (or faster), you can really see how mechanically stable the system is. 
-- The drag chain on the right-hand side (oriented to the camera) is suspended in air because the part of the table holding it was removed to finish a carpentry project (I was out of 2x4s).
-- The jog speed is very close to the maximum stable speed. You can hear, at one point in the video, a nasty sound from the lead screws whipping hard during a traversal. This is occurring on the Y-axis.
-
-### CNC Motion Demo: Front View [video]
-[CNC Motion Demo: Front View](https://youtu.be/kZuz6hbkcs4)
-
-### CNC Motion Demo: Side View [video]
-[CNC Motion Demo: Side View](https://youtu.be/PVJ5583bCYA) 
-
-
 ## Finished build photos
 ### Wiring
 ![wiring](https://imgur.com/ragOnPI.png)
@@ -38,6 +23,22 @@
 
 ### CNC Machine, front-right
 ![frontright](https://imgur.com/vOQXCW5.png)
+
+
+## Motion Demos
+### CNC Motion Demo: Corner View [video]
+[CNC Motion Demo: Corner View](https://youtu.be/T_k4fVqZpzs)
+
+- If you speed up the video to 2X speed (or faster), you can really see how mechanically stable the system is. 
+- The drag chain on the right-hand side (oriented to the camera) is suspended in air because the part of the table holding it was removed to finish a carpentry project (I was out of 2x4s).
+- The jog speed is very close to the maximum stable speed. You can hear, at one point in the video, a nasty sound from the lead screws whipping hard during a traversal. This is occurring on the Y-axis.
+
+### CNC Motion Demo: Front View [video]
+[CNC Motion Demo: Front View](https://youtu.be/kZuz6hbkcs4)
+
+### CNC Motion Demo: Side View [video]
+[CNC Motion Demo: Side View](https://youtu.be/PVJ5583bCYA) 
+
 
 ## CNC Tooling Tests (aka cuts)
 ### My first cut [video]
