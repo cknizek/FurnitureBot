@@ -1,4 +1,4 @@
-# CNC Build Documentation
+# FurnitureBot Build Docs
 
 ## Motion Demos
 ### CNC Motion Demo: Corner View [video]
